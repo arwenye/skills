@@ -15,3 +15,4 @@
 
 - [实验规划 skill](experiment-plan/SKILL.md)
 - [实验总结 skill](experiment-notes/SKILL.md)
+- [容器环境初始化 skill](env-init-container/SKILL.md)
